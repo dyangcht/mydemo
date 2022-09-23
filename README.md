@@ -1,1 +1,1 @@
-# mydemo
+# spring-boot application - MySQL Database
